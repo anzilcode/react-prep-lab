@@ -1,10 +1,13 @@
-
-import Counter from './components/Counter'
+// import Test from './components/Test'
+// import Counter from './components/Counter'
+import Pagination from "./components/Pagination"
 
 const App = () => {
   return (
     <div>
-      <Counter/>
+      {/* <Counter/> */}
+      {/* <Test/> */}
+      <Pagination/>
     </div>
   )
 }
